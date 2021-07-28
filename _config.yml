@@ -3,9 +3,7 @@ author:
   name: Leoveanu Claudiu
   email: c.leov@icloud.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  at the edge of truth
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,6 +12,9 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
+
+kramdown:
+  math_engine: katex
 
   # generate social links in footer
   #social_links:
