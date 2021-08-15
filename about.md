@@ -13,9 +13,14 @@ img {
 </style>
 <img src="/assets/avatar.jpeg" alt="Avatar" style="width:200px">
 
-Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through problem-solving.
+Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through problem-solving. 
+
+Looking to connect? Take a look at the social links below. 
 
 <body>
+<a href="https://www.goodreads.com/user/show/90047214-claudiu-leoveanu">
+<img src="/assets/goodreads.png" width="45" height="45">
+</a>
 <a href="https://www.linkedin.com/in/cleov/">
 <img src="/assets/linkedin.png" width="45" height="45">
 </a>
