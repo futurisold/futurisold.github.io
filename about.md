@@ -15,7 +15,7 @@ img {
 
 Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through problem-solving. 
 
-Looking to connect? Take a look at the social links below. 
+<br> Shoot me a line at any of the links below if you feel like it.
 
 <body>
 <a href="https://www.goodreads.com/user/show/90047214-claudiu-leoveanu">
