@@ -24,6 +24,9 @@ Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied sci
 <a href="https://www.linkedin.com/in/cleov/">
 <img src="/assets/linkedin.png" width="45" height="45">
 </a>
+<a href="https://twitter.com/cdleov">
+<img src="/assets/twitter.png" width="45" height="45">
+</a>
 <a href="https://open.spotify.com/user/i6iljufwad8zsg7pbyyrekc9a">
 <img src="/assets/spotify.png" width="45" height="45">
 </a>
