@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<style>
+img {
+  float: left;
+  border-radius: 50%;
+  margin-right:15px;
+}
+</style>
+<img src="/assets/avatar.jpeg" alt="Avatar" style="width:200px">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through problem-solving.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<body>
+<a href="https://www.linkedin.com/in/cleov/">
+<img src="/assets/linkedin.png" width="45" height="45">
+</a>
+<a href="https://open.spotify.com/user/i6iljufwad8zsg7pbyyrekc9a">
+<img src="/assets/spotify.png" width="45" height="45">
+</a>
+<a href="https://bandcamp.com/findx">
+<img src="/assets/bandcamp.png" width="45" height="45">
+</a>
+</body>
