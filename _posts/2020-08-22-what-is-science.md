@@ -14,10 +14,10 @@ For a brief moment, pause and ponder the following depiction of a circle.
 </p>
 <br>
 
-Looks quite perfect, isn't it? The more one gazes at it, the more one tends to get absorbed by its genuine simplicity. It might be the front runner for the purest tangible approximation of an ideal, something that [Plato](https://www.britannica.com/biography/Plato) envisioned some thousands of years ago through his [theory of forms](https://www.wikiwand.com/en/Theory_of_forms), and what [Kant](https://www.britannica.com/biography/Immanuel-Kant) refined with his [transcendental idealism](https://www.britannica.com/topic/transcendental-idealism) program. You will find it across virtually all cultures anywhere between [esoteric wisdom](https://en.wikipedia.org/wiki/File:Oxherding_pictures,_No._8.jpg) and the very heart of the [physical laws](https://www.wikiwand.com/en/Pi#/Describing_physical_phenomena) through its offspring, $$\pi$$, the most rationally deified irrational and transcendental (*go figure*) constant. I hope this lured you enough for me to conclude that the circle is quite the protagonist; no need to delve deeper into the weeds to prove this point.
+Looks quite perfect, doesn't it? The more one gazes at it, the more one tends to get absorbed by its genuine simplicity. It might be the front runner for the purest tangible approximation of an ideal, something that [Plato](https://www.britannica.com/biography/Plato) envisioned some thousands of years ago through his [theory of forms](https://www.wikiwand.com/en/Theory_of_forms), and what [Kant](https://www.britannica.com/biography/Immanuel-Kant) refined with his [transcendental idealism](https://www.britannica.com/topic/transcendental-idealism) program. You will find it across cultures, anywhere between [esoteric wisdom](https://en.wikipedia.org/wiki/File:Oxherding_pictures,_No._8.jpg) and the very heart of the [physical laws](https://www.wikiwand.com/en/Pi#/Describing_physical_phenomena). Its offspring, $$\pi$$, is the most rationally deified irrational and transcendental (*go figure*) constant. I hope this lured you enough for me to conclude that the circle is quite the protagonist; no need to delve deeper into the weeds to prove this point.
 
 <br>
-What of it, you may ask? To answer this question, we need a short detour back to ancient Greece to meet this fellow.
+So what of it, you may ask? To answer this question, we need a short detour back to ancient Greece to meet this fellow.
 
 <br>
 <p align="center">
@@ -25,7 +25,7 @@ What of it, you may ask? To answer this question, we need a short detour back to
 </p>
 
 <br>
-His name was [Archimedes](https://www.britannica.com/biography/Archimedes) and he came up with a very ingenious idea; one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, like the shoulders on which he himself has ascended. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
+His name was [Archimedes](https://www.britannica.com/biography/Archimedes), and he came up with a very ingenious idea, one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, the deserved reward waiting on the top of the shoulders he himself ascended. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
 
 <br>
 <body>
@@ -35,7 +35,7 @@ His name was [Archimedes](https://www.britannica.com/biography/Archimedes) and h
 </body>
 
 <br> 
-The logical deduction follows quite elegantly and lies hidden under various forms at the heart of the scientific endeavor
+The logical deduction follows quite elegantly and lies hidden under various forms at the heart of the scientific endeavor -
 > The more you **trim**, the better the **approximation** of the circle gets.
 
 <br> 
@@ -54,7 +54,7 @@ So does everything ultimately boil down to degrees of precision? I don't know. B
 > boy playing on the sea-shore, and diverting ourselves in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before us.$$^{(4)}$$
 
 <br>
-In our pursuit of tangible ideals we relish the discovery of a master key that opened up many doors. This master key is the [unreasonable effectiveness of mathematics](https://www.wikiwand.com/en/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences#:~:text=%22The%20Unreasonable%20Effectiveness%20of%20Mathematics,and%20even%20to%20empirical%20predictions.). It's the lighthouse our most gifted scientists rely upon when they just [shut up and calculate](https://arxiv.org/pdf/0709.4024v1.pdf). The sheer thought of learning a truth that percolates beyond the confinement of our experiences is a subtle and cogent exposition of the nomological potency of a possible vast underlying mathematical structure. Afterall, it does appear to us that 
+In our pursuit of tangible ideals, we relish the discovery of a master key that opened up many doors. This master key is the [unreasonable effectiveness of mathematics](https://www.wikiwand.com/en/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences#:~:text=%22The%20Unreasonable%20Effectiveness%20of%20Mathematics,and%20even%20to%20empirical%20predictions.). It's the lighthouse our most gifted scientists rely upon when they just [shut up and calculate](https://arxiv.org/pdf/0709.4024v1.pdf). The sheer thought of learning a truth that percolates beyond the confinement of our experiences is a subtle and cogent exposition of the nomological potency of a possible vast underlying mathematical structure. After all, it does appear to us that 
 > Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.$$^{(5)}$$
 
 <br>
