@@ -6,6 +6,13 @@ author:
 - Leo
 katex: True
 ---
+<style>
+.responsive {
+    width: 100%;
+    height: auto;
+}
+</style>
+
 For a brief moment, pause and ponder the following depiction of a circle.
 
 <br>
@@ -21,7 +28,7 @@ So what of it, you may ask? To answer this question, we need a short detour back
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/archimedes.jpeg" alt="Avatar" style="border-radius: 5%; width: 600px">
+<img src="/assets/2020-08-15/archimedes.jpeg" alt="Circle" class="responsive" style="border-radius: 5%; width: 600px">
 </p>
 
 <br>
