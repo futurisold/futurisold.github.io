@@ -33,7 +33,7 @@ So what of it, you may ask? To answer this question, we need a short detour back
 </p>
 
 <br>
-His name was [Archimedes](https://www.britannica.com/biography/Archimedes), and he came up with a very ingenious idea, one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, the deserved reward waiting on the top of the shoulders he himself had hiked on. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
+His name was [Archimedes](https://www.britannica.com/biography/Archimedes), and he came up with a very ingenious idea, one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, the deserved reward waiting on the top of the shoulders he himself had ascended. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
 
 <br>
 <body>
