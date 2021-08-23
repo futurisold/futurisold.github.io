@@ -3,12 +3,10 @@ author:
   name: Leoveanu Claudiu
   email: c.leov@icloud.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  at the edge of truth
+  A home for raw ideas and scribbles that I find myself chewing over a lot anyway.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
@@ -16,45 +14,6 @@ minima:
 kramdown:
   math_engine: katex
 
-  # generate social links in footer
-  #social_links:
-    #twitter: jekyllrb
-    #github:  jekyll
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
 theme: minima
 
 plugins:
