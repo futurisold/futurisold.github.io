@@ -6,10 +6,11 @@ author:
 - Leo
 katex: True
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .responsive {
-    width: 100%;
-    height: auto;
+  width: 75%;
+  height: auto;
 }
 </style>
 
@@ -17,7 +18,7 @@ For a brief moment, pause and ponder the following depiction of a circle.
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/circle.png" width="450" height="450">
+<img src="/assets/2020-08-15/circle.png" class="responsive">
 </p>
 <br>
 
@@ -28,21 +29,21 @@ So what of it, you may ask? To answer this question, we need a short detour back
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/archimedes.jpeg" alt="Circle" class="responsive" style="border-radius: 5%; width: 600px">
+<img src="/assets/2020-08-15/archimedes.jpeg" alt="Avatar" style="border-radius: 5%; width: 600px">
 </p>
 
 <br>
-His name was [Archimedes](https://www.britannica.com/biography/Archimedes), and he came up with a very ingenious idea, one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, the deserved reward waiting on the top of the shoulders he himself ascended. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
+His name was [Archimedes](https://www.britannica.com/biography/Archimedes) and he came up with a very ingenious idea, one which a few centuries later would empower [Newton](https://www.britannica.com/biography/Isaac-Newton) to become a giant, the deserved reward waiting on the top of the shoulders on which he himself has ascended.. It goes like this. Draw a circle and surround it with a square, such that the circumference of the circle touches the midpoints of the four sides of the square. Then, *trim* the corners in such a way your cut is tangent to the circle. In doing so, an octagon surrounding the circle emerges. More formally, if $$n$$ is the number of initial edges of our polygon, then by applying this transformation, we'll end up with $$2n$$ - twice as many edges. 
 
 <br>
 <body>
-<p align="center"> <img src="/assets/2020-08-15/square.png" width="450" height="450"> </p>
-<p align="center"> <img src="/assets/2020-08-15/left_arrow.png" width="50" height="50" style="transform:rotate(90deg);"> </p>
-<p align="center"> <img src="/assets/2020-08-15/octagon.png" width="450" height="450"> </p>
+<p align="center"> <img src="/assets/2020-08-15/square.png" class="responsive"> </p>
+<p align="center"> <img src="/assets/2020-08-15/left_arrow.png" class="responsive" style="transform:rotate(90deg); width: 50px"> </p>
+<p align="center"> <img src="/assets/2020-08-15/octagon.png" class="responsive"> </p>
 </body>
 
 <br> 
-The logical deduction follows quite elegantly and lies hidden under various forms at the heart of the scientific endeavor -
+The logical deduction follows quite elegantly and lies hidden under various forms at the heart of the scientific endeavor
 > The more you **trim**, the better the **approximation** of the circle gets.
 
 <br> 
@@ -50,7 +51,7 @@ With this in mind, let us return to our original depiction of the circle while a
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/circle-zoomed.png" width="450" height="450">
+<img src="/assets/2020-08-15/circle-zoomed.png" class="responsive">
 </p>
 
 <br>
@@ -61,7 +62,7 @@ So does everything ultimately boil down to degrees of precision? I don't know. B
 > boy playing on the sea-shore, and diverting ourselves in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before us.$$^{(4)}$$
 
 <br>
-In our pursuit of tangible ideals, we relish the discovery of a master key that opened up many doors. This master key is the [unreasonable effectiveness of mathematics](https://www.wikiwand.com/en/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences#:~:text=%22The%20Unreasonable%20Effectiveness%20of%20Mathematics,and%20even%20to%20empirical%20predictions.). It's the lighthouse our most gifted scientists rely upon when they just [shut up and calculate](https://arxiv.org/pdf/0709.4024v1.pdf). The sheer thought of learning a truth that percolates beyond the confinement of our experiences is a subtle and cogent exposition of the nomological potency of a possible vast underlying mathematical structure. After all, it does appear to us that 
+In our pursuit of tangible ideals we relish the discovery of a master key that opened up many doors. This master key is the [unreasonable effectiveness of mathematics](https://www.wikiwand.com/en/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences#:~:text=%22The%20Unreasonable%20Effectiveness%20of%20Mathematics,and%20even%20to%20empirical%20predictions.). It's the lighthouse our most gifted scientists rely upon when they just [shut up and calculate](https://arxiv.org/pdf/0709.4024v1.pdf). The sheer thought of learning a truth that percolates beyond the confinement of our experiences is a subtle and cogent exposition of the nomological potency of a possible vast underlying mathematical structure. Afterall, it does appear to us that 
 > Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.$$^{(5)}$$
 
 <br>
