@@ -28,4 +28,8 @@
   <!-- KaTeX -->
   <link rel="stylesheet" href="/assets/plugins/katex_0.13.13/katex.min.css">
   {% endif %}
+
+  {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+  {% endif %}
 </head>

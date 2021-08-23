@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What is Science?"
+header-img: "assets/2020-08-15/header.jpeg"
 categories: musings
 author:
 - Leo
