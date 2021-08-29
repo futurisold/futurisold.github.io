@@ -81,6 +81,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  jekyll-seo-tag
   kramdown-math-katex
   minima!
   webrick
