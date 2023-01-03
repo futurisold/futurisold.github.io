@@ -13,7 +13,7 @@ img {
 </style>
 <img src="/assets/avatar.png" alt="Avatar" style="width:200px">
 
-Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through keen observation.
+Hi! I'm Leo. I am currently pursuing a career in the field of artificial intelligence, dabbling sporadically in various other things every now and then. I was fortunate enough to discover science at an early age, which led to my curiosity about the world and a desire to learn more about it.
 
 <br> Shoot me a line at any of the links below if you feel like it.
 
