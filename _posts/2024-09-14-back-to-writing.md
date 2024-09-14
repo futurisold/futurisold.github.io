@@ -6,7 +6,7 @@ author:
 - Leo
 ---
 <p align="center">
-<img src="/assets/2024-09-14/header.jpg" class="responsive">
+<img src="/assets/2024-09-14-back-to-writing/header.jpg" class="responsive">
 </p>
 
 I have been away from writing for quite some time now. The last time I publicly wrote something was in 2020, and it feels like a lifetime ago. I have been busy with my work and other commitments, and I have not had the time or energy to sit down and write anything more than jottings. Nothing systematic. But I miss it. I miss the feeling of putting my thoughts into words, of sharing my ideas with the world. So I have decided to make a conscious effort to get back to writing.

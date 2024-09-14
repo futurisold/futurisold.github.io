@@ -18,7 +18,7 @@ For a brief moment, pause and ponder the following depiction of a circle.
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/circle.png" class="responsive">
+<img src="/assets/2020-08-15-what-is-science/circle.png" class="responsive">
 </p>
 <br>
 
@@ -29,7 +29,7 @@ So what of it, you may ask? To answer this question, we need a short detour back
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/archimedes.jpeg" alt="Avatar" style="border-radius: 5%; width: 600px">
+<img src="/assets/2020-08-15-what-is-science/archimedes.jpeg" alt="Avatar" style="border-radius: 5%; width: 600px">
 </p>
 
 <br>
@@ -37,9 +37,9 @@ His name was [Archimedes](https://www.britannica.com/biography/Archimedes), and 
 
 <br>
 <body>
-<p align="center"> <img src="/assets/2020-08-15/square.png" class="responsive"> </p>
-<p align="center"> <img src="/assets/2020-08-15/left_arrow.png" class="responsive" style="transform:rotate(90deg); width: 50px"> </p>
-<p align="center"> <img src="/assets/2020-08-15/octagon.png" class="responsive"> </p>
+<p align="center"> <img src="/assets/2020-08-15-what-is-science/square.png" class="responsive"> </p>
+<p align="center"> <img src="/assets/2020-08-15-what-is-science/left_arrow.png" class="responsive" style="transform:rotate(90deg); width: 50px"> </p>
+<p align="center"> <img src="/assets/2020-08-15-what-is-science/octagon.png" class="responsive"> </p>
 </body>
 
 <br>
@@ -51,7 +51,7 @@ With this in mind, let us return to our original depiction of the circle while a
 
 <br>
 <p align="center">
-<img src="/assets/2020-08-15/circle-zoomed.png" class="responsive">
+<img src="/assets/2020-08-15-what-is-science/circle-zoomed.png" class="responsive">
 </p>
 
 <br>
