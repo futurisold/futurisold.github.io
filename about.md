@@ -13,7 +13,25 @@ img {
 </style>
 <img src="/assets/avatar.png" alt="Avatar" style="width:100px; height:100px; object-fit:cover;">
 
-Hi! I'm Leo. I am currently pursuing a career in the field of artificial intelligence, dabbling sporadically in various other things every now and then. I was fortunate enough to discover science at an early age, which led to my curiosity about the world and a desire to learn more about it.
+> "The ultimate sense-enhancing device is a searching mind."
+
+Leo here.
+I see patterns in data.
+Life's one big puzzle.
+Science bug bit me young.
+Made me curious.
+Always asking why.
+That curiosity?
+It's my fuel.
+Pushes me to excel.
+No half measures.
+Dropped out of uni.
+No degree.
+Started from scratch.
+No big tech backing.
+Just me, a computer, and coffee.
+Grew up with mIRC, DC++, torrents in Eastern Europe.
+That hacker mindset stuck.
 
 <br> Shoot me a line at any of the links below if you feel like it.
 
