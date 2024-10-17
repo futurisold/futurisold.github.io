@@ -1,19 +1,23 @@
 <head>
-  <meta name="google-site-verification" content="YCgrdzHl1-4EKBVRDJFO0CXSOZ7SyjRIi_Ek7TZmDTE" />
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-  <link rel="icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}" />
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
 
-  {%- include custom-head.html -%}
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <!--KaTeX-->
+  <!-- Social: Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{site.twitter_username}}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.image %}
+  <meta property="twitter:image:src" content="{{ site.url }}{{page.image }}">
+  {% else %}
+  <meta property="twitter:image:src" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %}
+
+  <!--KaTeX-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"></script>
@@ -25,12 +29,39 @@
       });
   </script>
 
-  {% if page.katex %}
-  <!-- KaTeX -->
-  <link rel="stylesheet" href="/assets/plugins/katex_0.13.13/katex.min.css">
+  <!-- Social: Facebook / Open Graph -->
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{page.image }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
+  <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
 
-  {% if page.header-img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
-  {% endif %}
+  <!-- Social: Schema.org  -->
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta itemprop="image" content="{{ '/assets/img/opengraph.png' | prepend: site.baseurl | prepend: site.url }}"/>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}" />
+
+  <!-- Android Lolipop Theme Color -->
+  <meta name="theme-color" content="#2a4d14">
+
+  <!-- Styles -->
+  <link rel="stylesheet" id="css-theme" href="{{ '/assets/css/main-' | append: site.theme_base | append: '.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets/css/highlight/' | append: site.highlighter_theme | append: '.css' | prepend: site.baseurl }}">
+  <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+  <!-- Javascript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js"></script>
+  <script type="text/javascript" src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
 </head>

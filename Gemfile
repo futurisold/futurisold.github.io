@@ -1,10 +1,10 @@
-# frozen_string_literal: true
-
-source "https://rubygems.org"
+source 'https://rubygems.org'
 gemspec
 
-gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
-gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
-gem "webrick"
+gem 'bundler', '~> 2.5.4'
+gem 'kramdown-parser-gfm'
 gem 'kramdown-math-katex'
 gem 'jekyll-seo-tag'
+gem 'jekyll-feed'
+gem 'json', '~> 2.7'
+gem 'webrick', '~> 1.8'

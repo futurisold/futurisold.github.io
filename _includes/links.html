@@ -1,0 +1,26 @@
+{% if site.email != null %}
+<a href="mailto:{{site.email}}">
+  <i class="fa fa-envelope fa-3x"></i>
+</a>
+{% endif %}
+{% if site.github_username != null %}
+<a href="https://github.com/{{site.github_username}}" target="_blank">
+    <i class="fa-brands fa-github fa-3x"></i>
+</a>
+{% endif %}
+{% if site.twitter_username != null %}
+<a href="https://twitter.com/{{site.twitter_username}}" target="_blank">
+    <i class="fa-brands fa-x-twitter fa-3x"></i>
+</a>
+{% endif %}
+{% if site.linkedin_id != null %}
+<a href="https://www.linkedin.com/in/{{site.linkedin_id}}" target="_blank">
+    <i class="fa-brands fa-linkedin-in fa-3x"></i>
+</a>
+{% endif %}
+{% if site.goodreads_username != null %}
+<a href="https://www.goodreads.com/user/show/{{site.goodreads_username}}" target="_blank">
+    <i class="fa-brands fa-goodreads-g fa-3x"></i>
+</a>
+{% endif %}
+
