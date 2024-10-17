@@ -3,7 +3,14 @@ layout: default
 blog: true
 ---
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<h4 class="post-title"> {{ page.date | date: date_format }} </h4>
+{%- assign margin_left = 0 -%}
+{%- assign margin_top = -25 -%}
+{%- assign margin_bottom = 75 -%}
+
+<h3 class="post-date" style="margin-top: {{ margin_top }}px; margin-left: {{ margin_left }}px; margin-bottom: {{ margin_bottom }}px; text-align: center; display: block;">
+  {{ page.date | date: date_format }}
+</h3>
+
 <article class="blog-post">
   {{ content }}
 </article>
