@@ -33,7 +33,7 @@ goodreads_username: "90047214-claudiu-leoveanu-condrei"
 # Theme
 theme: jekyll-theme-potato-hacker                 # Uncomment this
 # remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
-# theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
+theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 

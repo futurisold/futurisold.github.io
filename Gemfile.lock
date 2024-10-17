@@ -81,7 +81,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.5.4)
-  jekyll (~> 3)
+  jekyll
   jekyll-feed
   jekyll-seo-tag
   jekyll-theme-potato-hacker!
